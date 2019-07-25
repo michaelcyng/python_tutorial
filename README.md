@@ -1,2 +1,2 @@
-# python_tutorial
-Repositories for Python Tutorial
+# Python Tutorial
+This repository aims to store the sample Python scripts for the tutorial.
