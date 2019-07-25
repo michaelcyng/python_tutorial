@@ -1,2 +1,3 @@
-name = "Wah Hei"
-print("My name is {}".format(name))
+print("Please enter your name below:")
+name = input()
+print("Your name is {}".format(name))
