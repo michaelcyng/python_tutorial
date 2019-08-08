@@ -12,3 +12,5 @@ z = x / y
 print("x / y = {}".format(z))
 z = x // y
 print("x // y = {}".format(z))
+z = x % y
+print("x % y = {}".format(z))
