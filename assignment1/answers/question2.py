@@ -1,4 +1,3 @@
-# TODO: Complete the following program to compute the sum of n integers:
 
 print("Enter the value of n:")
 n = int(input())
@@ -8,7 +7,7 @@ index = 0
 while index < n:
     print("Enter integer {0}:".format(index))
     new_value = int(input())
-    # TODO: replace this line to update the value of total
+    total += new_value
     index += 1
 
-print("The sum is {0}".format(total))
+print("The average is {0}".format(total / n))
