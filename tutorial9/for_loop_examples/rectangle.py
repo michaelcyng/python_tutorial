@@ -1,0 +1,10 @@
+print("Enter the number of rows:")
+num_rows = int(input())
+
+print("Enter the number of columns:")
+num_columns = int(input())
+
+for row in range(num_rows):
+    for column in range(num_columns):
+        print("*", end="")  # end="" means after printing the string, it will not go to the new line
+    print("")
