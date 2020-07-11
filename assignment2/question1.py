@@ -19,7 +19,7 @@ nums = list()
 for _ in range(num_integers):
     print("Input an integer: ", end="")
     number = int(input())
-    nums.append(nums)
+    nums.append(number)
 
 # TODO: Replace here with the code to obtain run_sum from nums
 
